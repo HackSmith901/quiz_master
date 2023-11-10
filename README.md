@@ -39,6 +39,3 @@ This will generate the 35 quiz and answer key files in the current directory.
 - Expand to other subjects besides capitals
 - Add quiz solution after completion
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
